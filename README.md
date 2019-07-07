@@ -4,13 +4,13 @@ Secure Digital Assets on a Private Blockchain
 
 
 ```
-### Run
+Run
 ``` 
 
 $ node server.js
 
 ```
-### View application
+View application
 ``` 
 
 http://localhost:8000
